@@ -97,9 +97,7 @@ Generating visualization...
 ```
 
 ### Generated Visualization:
-![Sample Prediction Chart](https://via.placeholder.com/800x400.png?text=Actual+vs+Predicted+Stock+Prices)
-
-*The script generates a high-quality PNG image showing:*
+*The script automatically generates a PNG file (`[TICKER]_prediction_results.png`) showing:*
 - Left panel: Actual vs Predicted prices over the test period
 - Right panel: Prediction errors for each day
 
